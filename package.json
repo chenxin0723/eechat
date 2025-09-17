@@ -44,7 +44,7 @@
     "@rollup/plugin-node-resolve": "^16.0.1",
     "@tailwindcss/postcss": "^4.0.5",
     "@types/markdown-it": "^14.1.2",
-    "@types/node": "^22.13.1",
+    "@types/node": "^24.5.1",
     "@vitejs/plugin-vue": "^5.0.4",
     "autoprefixer": "^10.4.20",
     "egg-bin": "6",
